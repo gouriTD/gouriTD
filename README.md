@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gouri Tripathi
 ======================================================================================================================================
 
-11yrs of experience as software developer
+12yrs of experience as software developer
 -----------------------------------------
 
 I am an experienced software developer who has an eye for perfection and always eager to learn new technologies. I started my career into mobile technologies and have exposure to platforms like IOS, Android and Symbian C++. Lately I worked on cross platform development in React-Native and NodeJS. For sometime I have been up skilling myself in web technologies (both frontend and backend) as the area caught my interest. Hence i am open for opportunities in ReactJS, Frontend development, FullStack development. Also i am open for job roles in project management and Scrum Master.
