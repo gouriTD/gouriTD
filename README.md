@@ -1,21 +1,83 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Gouri Tripathi
-======================================================================================================================================
+Hi 👋 I am Gouri Tripathi  
+====================================
 
-12yrs of experience as software developer
------------------------------------------
+Technical Writer | Ex-Software Developer (12+ years)
+----------------------------------------------------
 
-I am an experienced software developer who has an eye for perfection and always eager to learn new technologies. I started my career into mobile technologies and have exposure to platforms like IOS, Android and Symbian C++. Lately I worked on cross platform development in React-Native and NodeJS. For sometime I have been up skilling myself in web technologies (both frontend and backend) as the area caught my interest. Hence i am open for opportunities in ReactJS, Frontend development, FullStack development. Also i am open for job roles in project management and Scrum Master.
+I am a Technical Writer with over 12 years of experience in software development, specializing in translating complex technical concepts into clear, user-friendly documentation.
 
-* 🌍  I'm based in Bengaluru, India
-* 🖥️  See my portfolio at [MyPortfolio](http://gouritd.github.io/Portfolio/)
-* ✉️  You can contact me at [gouri30@gmail.com](mailto:gouri30@gmail.com)
+With a strong foundation in mobile and web technologies (iOS, Android, React Native, Node.js), I bring a developer’s perspective to documentation—ensuring accuracy, usability, and clarity.
 
-### Skills
+I am familiar with Agile workflows and cross-functional collaboration through Scrum practices and hold a Certified ScrumMaster (CSM) certification.
 
+In 2025, I worked extensively on Adobe Experience Manager Edge Delivery Services (EDS), where I designed core components and authored supporting documentation—bridging the gap between engineering and content.
 
-<p align="left">
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode.svg" width="36" height="36" alt="VS Code" /></a><a href="https://www.xcode.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/xcode.svg" width="36" height="36" alt="XCode" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a><a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" /></a><a href="https://redux.js.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/redux-colored.svg" width="36" height="36" alt="Redux" /></a><a href="https://vitejs.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a><a href="https://www.postgresql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/postgresql-colored.svg" width="36" height="36" alt="PostgreSQL" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
-</p>
+I am currently focused on creating:
+- Developer documentation  
+- API documentation  
+- How-to guides and tutorials  
+- Conceptual and user-focused documentation  
+
+---
+
+### ✍️ Technical Writing Portfolio
+
+🔗 [Technical Writing Portfolio](https://github.com/gouriTD/Writing_Sample/wiki)
+
+**Sample Work Includes:**
+- API Documentation (with request/response examples)
+- Step-by-step user guides
+- Conceptual documentation
+- Quick start guide
+- DITA XML-based structured documentation
+- Infographics for concept visualization
+---
+### 🧩 Product & Platform Experience (Adobe EDS)
+
+**Adobe Experience Manager – Edge Delivery Services (2025)**  
+- Designed and developed core components for Adobe EDS-based applications  
+- Authored Low-Level Design (LLD) documentation for component architecture  
+- Wrote component authoring documentation to guide content creators and developers  
+- Gained strong exposure to content-first architecture and documentation needs in modern web platforms  
+
+### 💻 Engineering Background 
+
+I have worked extensively in:
+- Mobile development (iOS, Android, Symbian C++)
+- Cross-platform development (React Native)
+- Backend development (Node.js, Express)
+- Web technologies (React, JavaScript, HTML, CSS, )
+
+This experience helps me:
+- Understand developer workflows and challenges  
+- Write accurate and practical documentation  
+- Bridge the gap between engineering and end users  
+
+---
+
+### 🛠️ Tools & Technologies
+
+**Documentation & Writing:**
+- Markdown | Git & GitHub | VS Code  
+- Swagger | Postman  
+- Jira | Confluence  
+- DITA XML | Oxygen XML Author 
+
+**Technical Skills:**
+JavaScript | React | Node.js | Express | HTML | CSS | MongoDB | PostgreSQL | React-Native | IOS 
+
+**Content Platforms:**
+Adobe Experience Manager (EDS)
+
+---
+
+### 🌍 About Me
+
+- 📍 Based in Bengaluru, India  
+- 📧 gouri30@gmail.com  
+- 🔗 [LinkedIn](https://www.linkedin.com/in/gouri-tripathi-277b9624/)  
+- 💻 [GitHub](https://www.github.com/gouriTD)  
+- 📝[Technical Writing Portfolio](https://github.com/gouriTD/Writing_Sample/wiki)
 
 
 ### Socials
